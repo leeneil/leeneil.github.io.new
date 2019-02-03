@@ -38,7 +38,9 @@ image:
       <td>2010</td>
       <td><strong>National Tsing Hua University</strong> <br />Bachelor of Science, Electrical Engineering</td>
     </tr>
+  </table>  
 
+  <table>
     <thead><tr>
       <th><strong>Research&nbsp;Experience</strong></th>
       <th> </th>
