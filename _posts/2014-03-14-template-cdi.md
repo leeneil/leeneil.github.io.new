@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /projects/metallic-template-for-coherent-diffraction-imaging/
-title: "EEMD enhances atomic tomography images"
+title: "Metallic template enhances resolution of X-ray coherent diffraction imaging"
 categories: projects
 share: false
 author-page: true
