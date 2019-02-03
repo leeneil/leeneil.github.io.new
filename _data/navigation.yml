@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Projects
+  url: /projects/
+  excerpt:
+  image:
+
+- title: CV
+  url: /cv/
+  excerpt:
+  image:
+
+- title: Blog
+  url: https://blog.ponan.li
+  excerpt:
+  image:
