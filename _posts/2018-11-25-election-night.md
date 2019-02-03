@@ -3,6 +3,8 @@ layout: article
 permalink: /projects/2018-Taiwan-Election-Night/
 title: "2018 Taiwan Election Night"
 categories: projects
+share: false
+author-page: true
 image:
   feature: election_night_feature.png
   teaser: election_night_thumbnail.png

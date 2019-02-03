@@ -3,12 +3,14 @@ layout: article
 permalink: /projects/vr-phd-archer/
 title: "PhD Archer: VR game and user study"
 categories: projects
+share: false
+author-page: true
 image:
-  feature: s_layer_feature.jpg
-  teaser: s_layer_thumbnail.jpg
-  thumb: s_layer_thumbnail.jpg
+  feature: phd_archer_feature.PNG
+  teaser: phd_archer_thumbnail.png
+  thumb: phd_archer_thumbnail.png
 ---
 
-Po-Nan Li is a PhD candidate at Stanford EE, working with professors Soichi Wakatsuki and Piero Pianetta. His research focuses on X-ray coherent diffraction imaging, computational imaging and biological computation. Recently he has also worked on several machine learning projects with SLAC scientists.
+This was a EE267 Virtual Reality course projected of [Te-Lin Wu](https://www.linkedin.com/in/telinwu) and mine. On top of a VR game called PhD Archer, we further conducted a user study to understand how people reacted in the VR game, which for most of the participants was their very first VR experience in their life.
 
-Prior to joining Stanford in 2015, Po-Nan was a research assistant at Academia Sinica, Taiwan, where he worked on several computational physics projects with Academian Dr. Ting-Kuo Lee. He received his master's degree in Photonics and his bachelor's degree in EE from National Tsing Hua University, Taiwan, in 2012 and 2010, respectively.
+[to be continued] 
