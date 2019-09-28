@@ -9,8 +9,9 @@ image:
 ---
 
 
-Po-Nan Li is a PhD candidate at Stanford EE, working with professors [Soichi Wakatsuki](http://med.stanford.edu/wakatsukilab.html) and Piero Pianetta. His research focuses on X-ray coherent diffraction imaging, computational imaging and biological computation. Recently he has been also actively working on several machine learning projects with SLAC scientists.
+Po-Nan Li is a PhD candidate at Stanford EE, working with professors [Soichi Wakatsuki](http://med.stanford.edu/wakatsukilab.html) and Piero Pianetta. His research focuses on the intersection of computational imaging, machine learning and biological computation.
+During 2019 summer, Po-Nan interned at Google, where he worked with the [Daydream](https://vr.google.com/daydream/) team on VR/AR projects.
 
-Prior to joining Stanford in 2015, Po-Nan was blessed to have the opportunity to work on several computational physics/imaging projects with Dr. Ting-Kuo Lee, now an Academian, at Academia Sinica, Taiwan. Born and bred in Taiwan, he received his master's and bachelor's degrees from National Tsing Hua University, Taiwan, in 2012 and 2010, respectively.
+Prior to joining Stanford in 2015, Po-Nan worked on several computational physics and imaging projects with Dr. Ting-Kuo Lee, now an Academian, at Academia Sinica, Taiwan. Born and bred in Taiwan, he received his master's and bachelor's degrees from National Tsing Hua University, Taiwan.
 
 When not doing research, Po-Nan likes to explore the beautiful Bay Area by hiking and biking with his camera.

@@ -44,7 +44,7 @@ image:
 <table>
   <tbody>
     <thead><tr>
-      <th><strong>Research&nbsp;Experience</strong></th>
+      <th><strong>Experience</strong></th>
       <th> </th>
     </tr></thead>
     <tr>
@@ -54,6 +54,14 @@ image:
       <em>Graduate Research Assistant</em>
       <br />
       Experimental and numerical studies on X-ray coherent diffraction imaging and nanopore transport.</td>
+    </tr>
+    <tr>
+      <td>2019 summer</td>
+      <td><strong>Google</strong>
+      <br />
+      <em>Hardware Engineering Intern</em>
+      <br />
+      Algorithm development and camera calibration instrumentation for VR/AR technologies.</td>
     </tr>
     <tr>
       <td>2012 - 2015</td>
