@@ -168,6 +168,18 @@ image:
       <th> </th>
     </tr></thead>
     <tr>
+      <td>Jonathan Herrmann, <strong>Po-Nan Li</strong>, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki, “A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly,” <em>Proc. Natl. Acad. Sci. U.S.A</em> (accepted).
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Po-Nan Li</strong>, Jonathan Herrmann, Soichi Wakatsuki, and Henry van den Bedem, “Transport Properties of Nanoporous, Chemically Forced Biological Lattices,” <em>J. Phys. Chem. B</em> (accepted).
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
       <td><strong>Po-Nan Li</strong>, Jonathan Herrmann, Bradley B. Tolar, Frédéric Poitevin, Rasika Ramdasi, John R. Bargar, David A. Stahl, Grant J. Jensen, Christopher A. Francis, Soichi Wakatsuki, and Henry van den Bedem, “Nutrient transport suggests an evolutionary basis for charged archaeal surface layer proteins,” <em>ISME J.</em> <strong>12</strong>, 2389 (2018).
       </td>
       <td><a href="https://www.nature.com/articles/s41396-018-0191-0" target="_blank">[link]</a>
