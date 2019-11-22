@@ -168,7 +168,7 @@ image:
       <th> </th>
     </tr></thead>
     <tr>
-      <td>Jonathan Herrmann, <strong>Po-Nan Li</strong>, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki, “A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly,” <em>Proc. Natl. Acad. Sci. U.S.A</em> (accepted).
+      <td>Jonathan Herrmann, <strong>Po-Nan Li</strong>, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki, “A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly,” (accepted).
       </td>
       <td>
       </td>
@@ -177,6 +177,7 @@ image:
       <td><strong>Po-Nan Li</strong>, Jonathan Herrmann, Soichi Wakatsuki, and Henry van den Bedem, “Transport Properties of Nanoporous, Chemically Forced Biological Lattices,” <em>J. Phys. Chem. B</em> (accepted).
       </td>
       <td>
+      <a href="https://pubs-acs-org.stanford.idm.oclc.org/doi/abs/10.1021/acs.jpcb.9b05882" target="_blank">[link]</a>
       </td>
     </tr>
     <tr>
