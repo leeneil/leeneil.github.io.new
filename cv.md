@@ -184,6 +184,12 @@ image:
       </td>
     </tr>
     <tr>
+      <td>D.A. Barmherzig, J. Sun, <strong>P.-N. Li</strong>, and E.J. Candès, “Holographic Phase Retrieval and Reference Design,” <em>Inverse Problems</em> <strong>35</strong>, 094001 (2019).
+      </td>
+      <td><a href="https://iopscience.iop.org/article/10.1088/1361-6420/ab23d1/meta" target="_blank">[link]</a>
+      </td>
+    </tr>
+    <tr>
       <td><strong>Po-Nan Li</strong>, Jonathan Herrmann, Bradley B. Tolar, Frédéric Poitevin, Rasika Ramdasi, John R. Bargar, David A. Stahl, Grant J. Jensen, Christopher A. Francis, Soichi Wakatsuki, and Henry van den Bedem, “Nutrient transport suggests an evolutionary basis for charged archaeal surface layer proteins,” <em>ISME J.</em> <strong>12</strong>, 2389 (2018).
       </td>
       <td><a href="https://www.nature.com/articles/s41396-018-0191-0" target="_blank">[link]</a>
