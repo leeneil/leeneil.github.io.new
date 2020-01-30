@@ -164,7 +164,7 @@ image:
 <table>
   <tbody>
     <thead><tr>
-      <th><strong>Publication</strong></th>
+      <th><strong>Refereed Journal Publications</strong></th>
       <th> </th>
     </tr></thead>
     <tr>
@@ -223,6 +223,118 @@ image:
       </td>
       <td>
       <a href="http://http://www.opticsinfobase.org/ol/abstract.cfm?uri=ol-36-12-2339" target="_blank">[link]</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <thead><tr>
+      <th><strong>International Conference papers</strong></th>
+      <th> </th>
+    </tr></thead>
+    <tr>
+      <td><strong>Po-Nan Li</strong>, Jonathan R Herrmann, Frederic PB Poitevin, Rasika Ramdasi, Bradley B Tolar, John Barger, David Stahl, Grant Jensen, Soichi Wakatsuki, Henry van den Bedem, "Cryo Electron Tomography and Reaction-Diffusion Simulations Reveal a Molecular and Evolutionary Basis for Charged Archaeal Surface Layer Proteins," Bioyphysical Society 62nd Annual Meeting, 2443-Pos, San Francisco, CA, USA, 2018.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>C.-F. Huang, <strong>P.-N. Li</strong>, T.-T. Lee, Y. Bessho, Y. Hwu, T.-K. Lee, K. S. Liang, W.-H. Chang, P. Chen, T.-L. Hsu, C. Ma, Y. Joti, T. Kimura, Y. Nishino, "Measurement and simulation of interference enhancement in coherent X-ray diffraction imaging of gold nano-particles and influenza virus in water at SACLA," 12th International Conference on Biology and Synchrotron Radiation, W08, Menlo Park, CA, USA, 2016.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, P. Pianetta, S. Wakatsuki, and Y. Liu, "Resolution enhancement of transmission x-ray microscopy using coherent diffraction," 12th International Conference on Biology and Synchrotron Radiation, W07, Menlo Park, CA, USA, 2016.
+      </td>
+      <td><a href="https://iopscience.iop.org/article/10.1088/1361-6420/ab23d1/meta" target="_blank">[link]</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, and T.-K. Lee, "Effects of missing diffraction intensities in CDI image reconstruction with template method," 12th International Conference on Biology and Synchrotron Radiation, W06, Menlo Park, CA, USA, 2016.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>C.-F. Huang, <strong>P.-N. Li</strong>, T.-T. Lee, T.-L. Hsu, Y.-Y. Chen, S.-M. Yang, Y. Bessho, S.-H. Huang, W.-H. Chang, Y. Joti, T. Kimura, Y. Nishino, T.-K. Lee, P. Chen, C.-Z. Shi, W.-H. Wang, Y.-F. Hu, C.-H. Wong, K. S. Liang, and Y. Hwu, "Imaging individual drug-carrying liposomeparticles by free-election-laser coherent diffraction," 12th International Conference on Biology and Synchrotron Radiation, W04, Menlo Park, CA, USA, 2016.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><em>J. Herrmann</em> <em>et al</em>., "Calcium Mediates Structural Dynamics of RsaA, the S- Layer Protein from Caulobacter Crescentus," 12th International Conference on Biology and Synchrotron Radiation, M16, Menlo Park, CA, USA, 2016.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, T.-Y. Lan, and T.-K. Lee, "Method to enhance resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples", International Workshop on Phase Retrieval and Coherent Scattering, Evanston, IL, USA, 2014.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
+      <strong>[Best Poster Award winner]</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>T.-Y. Lan, <strong>P.-N. Li</strong>, and <em>T.-K. Lee</em>, "Method to enhance resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>T.-Y. Lan, <strong>P.-N. Li</strong>, and <em>T.K. Lee</em>, "Resolution enhancement for coherent diffraction imaging of non-crystalline samples," The 5th International Workshopn on FEL Science, Gyeongju, Korea, 2012.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, W.-L. Huang, H.-H. Tsao, and *C.-B. Huang*, "Plasmonic structures for implementing nanoscopic polarization sensitive devices," The 4th Cross-Strait Workshop on Optical Microstructure and Laser Technologies, Yanzhou, China, 2011.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, H.-H. Tsao, and C-.B. Huang, "A plasmonic nanocluster designed for near-field polarization analysis," IEEE Photonics Conference, MX 4, Arlington, VA, 2011.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, H.-H. Tsao, and C.-B. Huang, "Multiple selective excitations of localized surface plasmons in coupled gold nano-spheres," Conference on Lasers and Electro-Optics, JTuI57, Baltimore, MD, 2011.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
