@@ -249,7 +249,7 @@ image:
     <tr>
       <td><strong>P.-N. Li</strong>, P. Pianetta, S. Wakatsuki, and Y. Liu, "Resolution enhancement of transmission x-ray microscopy using coherent diffraction," 12th International Conference on Biology and Synchrotron Radiation, W07, Menlo Park, CA, USA, 2016.
       </td>
-      <td><a href="https://iopscience.iop.org/article/10.1088/1361-6420/ab23d1/meta" target="_blank">[link]</a>
+      <td>
       </td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ image:
       <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
       </td>
       <td>
-      <strong>[Best Poster Award winner]</strong>
+      <strong>Best Poster Award winner</strong>
       </td>
     </tr>
     <tr>
@@ -296,7 +296,19 @@ image:
       </td>
     </tr>
     <tr>
+      <td><strong>P.-N. Li</strong>, Y.-T. Hung, J.-S. Huang, and C.-B. Huang, “A plasmonic nanocluster designed for near-field polarization analysis,” Ann. Meet. Phys. Soc. of R.O.C., Chiayi, Taiwan, 2012.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
       <td><strong>P.-N. Li</strong>, W.-L. Huang, H.-H. Tsao, and *C.-B. Huang*, "Plasmonic structures for implementing nanoscopic polarization sensitive devices," The 4th Cross-Strait Workshop on Optical Microstructure and Laser Technologies, Yanzhou, China, 2011.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>P.-N. Li</strong>, Y.-T. Hung, H.-H. Tsao, J.-S. Huang, and C.-B. Huang, “Plasmonic nanodiscs designed for near-field polarization analysis,” International Photonics Conference Taiwan, CTh-III-4, Tainan, Taiwan, 2011.
       </td>
       <td>
       </td>
@@ -314,25 +326,13 @@ image:
       </td>
     </tr>
     <tr>
-      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      <td><strong>P.-N. Li</strong>, H.-H. Tsao, and C.-B. Huang, “Multiple selective excitations of localized surface plasmons in coupled gold nano-spheres,” Ann. Meet. Phys. Soc. of R.O.C., Taipei, Taiwan, 2011.
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>P.-N. Li</strong>, C.-F. Huang, S-J. Tseng, C. Kim, Y. Kim, C.-H. Lin, T.-Y. Lan, D. Y. Noh, Y. Hwu, K. S. Liang, and T.-K. Lee, "Coherent diffraction imaging with assistance of the metallic template", The 6th International Workshop on FEL Science, Tainan, Taiwan, 2013.
+      <td><strong>P.-N. Li</strong>, H.-H. Tsao, and C.-B. Huang, “Multiple selective excitations of localized surface plasmons in coupled gold nano-spheres,” International Conference on Optics and Photonics in Taiwan, OPT1-O-010, Tainan, Taiwan, 2010.
       </td>
       <td>
       </td>
