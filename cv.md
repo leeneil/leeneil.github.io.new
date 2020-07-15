@@ -89,6 +89,14 @@ image:
       <th> </th>
     </tr></thead>
     <tr>
+      <td>Jul. 2020</td>
+      <td><a href="#"><strong>Prortein structure determination by machine learning</strong></a>
+      <br />
+      Developing a machine learning pipeline for cryo-EM map-to-model routine.
+      <a href="https://arxiv.org/abs/2007.06847" target="_blank">[arXiv preprint]</a>
+      </td>
+    </tr>
+    <tr>
       <td>Nov. 2018</td>
       <td><a href="/projects/taiwan-referendum-viz/"><strong>2018 Taiwan Referendum Visualization</strong></a>
       <br />
@@ -107,7 +115,7 @@ image:
       Built and trained a YOLO network that can rapidly locate Bragg peaks on a diffraction image.
       <a href="http://blog.ponan.li/assets/papers/cs231n_peak-finding-crystallography_li.pdf" target="_blank">[CS231n Report]</a>
       <a href="http://blog.ponan.li/assets/papers/cs231n_poster_li.pdf" target="_blank">[CS231n poster]</a>
-      <a href="https://github.com/leeneil/peaknet4psocake" target="_blank">[code]</a>
+      <a href="https://github.com/leeneil/peaknet2020" target="_blank">[code]</a>
       </td>
     </tr>
     <tr>
@@ -118,6 +126,7 @@ image:
       <br />
       <a href="https://www6.slac.stanford.edu/news/2018-06-13-slac-stanford-scientists-discover-how-hardy-microbe%E2%80%99s-crystalline-shell-helps-it" target="_blank">[SLAC news]</a>
       <a href="https://www.nature.com/articles/s41396-018-0191-0" target="_blank">[ISME paper]</a>
+      <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.9b05882" target="_blank">[JPCB paper]</a>
       </td>
     </tr>
     <tr>
@@ -231,7 +240,7 @@ image:
 <table>
   <tbody>
     <thead><tr>
-      <th><strong>International Conference papers</strong></th>
+      <th><strong>Conference papers</strong></th>
       <th> </th>
     </tr></thead>
     <tr>
