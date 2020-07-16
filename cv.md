@@ -93,14 +93,16 @@ image:
       <td><a href="#"><strong>Prortein structure determination by machine learning</strong></a>
       <br />
       Developing a machine learning pipeline for cryo-EM map-to-model routine.
-      <a href="https://arxiv.org/abs/2007.06847" target="_blank">[arXiv preprint]</a>
+      <a href="https://arxiv.org/abs/2007.06847" target="_blank">[arXiv preprint]</a> <a href="https://github.com/leeneil/structure-generator" target="_blank">[code]</a>
       </td>
     </tr>
     <tr>
       <td>Nov. 2018</td>
       <td><a href="/projects/taiwan-referendum-viz/"><strong>2018 Taiwan Referendum Visualization</strong></a>
       <br />
-      An interactive website that visualizes the results of 2018 Referendum in Taiwan. Contributed to data crawling and front-end Development.</td>
+      An interactive website that visualizes the results of 2018 Referendum in Taiwan. Contributed to data crawling and front-end Development.
+      <a href="https://rfrd-tw.github.io/en/index.html" target="_blank">EN-US</a> | <a href="https://rfrd-tw.github.io/index.html" target="_blank">ZH-TW</a>
+      </td>
     </tr>
     <tr>
       <td>Nov. 2018</td>
