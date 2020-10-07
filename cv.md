@@ -179,6 +179,13 @@ image:
       <th> </th>
     </tr></thead>
     <tr>
+      <td><strong>Po-Nan Li</strong>, Soichi Wakatsuki, Piero Pianetta, and Yijin Liu, “Hybrid real- and reciprocal-space full-field imaging with coherent illumination,” <em>J. Opt.</em>, accepted (2020).
+      </td>
+      <td>
+      <a href="https://doi.org/10.1088/2040-8986/abbeca" target="_blank">[link]</a>
+      </td>
+    </tr>
+    <tr>
       <td>Jonathan Herrmann, <strong>Po-Nan Li</strong>, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki, “A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly,” <em>PNAS</em>, 201909798 (2019).
       </td>
       <td>
@@ -245,6 +252,12 @@ image:
       <th><strong>Conference papers</strong></th>
       <th> </th>
     </tr></thead>
+    <tr>
+      <td><strong>Po-Nan Li</strong>, Saulo de Oliveira, Soichi Wakatsuki, and Henry van den Bedem, "Sequence-guided protein structure determination using graph convolutional and recurrent networks," The 20th IEEE International Conference on BioInformatics and BioEngineering, Virtual, 2020.
+      </td>
+      <td>
+      </td>
+    </tr>
     <tr>
       <td><strong>Po-Nan Li</strong>, Jonathan R Herrmann, Frederic PB Poitevin, Rasika Ramdasi, Bradley B Tolar, John Barger, David Stahl, Grant Jensen, Soichi Wakatsuki, Henry van den Bedem, "Cryo Electron Tomography and Reaction-Diffusion Simulations Reveal a Molecular and Evolutionary Basis for Charged Archaeal Surface Layer Proteins," Bioyphysical Society 62nd Annual Meeting, 2443-Pos, San Francisco, CA, USA, 2018.
       </td>
